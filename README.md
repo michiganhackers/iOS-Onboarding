@@ -274,4 +274,5 @@ like so:
 @StateObject private var vm = LocationsViewModel()
 ```
 
-# END (WIP), go to video #2 to continue
+-- Temporary end of Tutorial ---
+Go to the video playlist linked at the top, video #2 to continue
