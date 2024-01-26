@@ -31,7 +31,7 @@ login.
 ```
 Host github.com
     ForwardAgent yes
-    IdentityFile ~/.ssh/eecs470_github
+    IdentityFile ~/.ssh/iOSTeam
 ```
 ### Cloning the repository:
 ```
